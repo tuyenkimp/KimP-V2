@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/TBoyRoblox727/TBoyRobloxYT/refs/heads/main/TBoypro.txt')))()
+local OrionLib = loadstring(game:HttpGet(('')))()
 
 local Window = OrionLib:MakeWindow({Name = "KimP V2", HidePremium = false, SaveConfig = true, ConfigFolder = "dxl_bf"})
 
